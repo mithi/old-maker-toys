@@ -1,4 +1,5 @@
-# OLD MAKER PROJECTS
+# Creative Technology Prototypes
+
 ## [DIGIT X VIDEO](https://www.youtube.com/watch?v=EbEOkDjMfLo)
 ## [DIGIT X WEBSITE](http://digit.gitlab.io/digit-x/)
 
